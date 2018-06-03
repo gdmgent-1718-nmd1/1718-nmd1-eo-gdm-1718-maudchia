@@ -15,4 +15,75 @@ img {
     max-width: 100%; /* Afbeeldingen responsive maken */
 }
 
-/* Voeg jouw css hieraan toe */
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+}
+.topleft {
+    display: block;
+    margin left: 10px;
+    margin right: auto;
+    width: 20%;
+}
+
+body {
+    background-image: url("../images/achtergrond.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.tekst {color: white}
+
+h1 {color: white;
+    font-family: 'Lato', sans-serif;}
+
+p, h1, h2, h3, h4 {color: white;
+    font-family: 'Lato', sans-serif;}
+
+h2 {
+    color: lightskyblue;
+    background-color: lightcyan;
+    width: 20%;
+    border-radius: 40px;
+    text-align: center;
+    padding: 10px;
+    
+}
+
+h3 {
+color:rgb(221, 247, 250);
+background-color: rgb(093, 213, 181);
+display:inline-block;
+border-radius: 30px;
+text-align: center;
+padding: 10px;
+}
+
+p {color: white;
+background-color: rgba(255, 255, 255, 0.404);
+border-radius: 30px;
+text-align: left;
+margin: 10px;
+padding: 40px;
+display:inline-block;}
+
+.stre {widh:100%;}
+
+h4 {
+    color:rgb(221, 247, 250);
+    background-color: rgb(093, 213, 181);
+    display:inline-block;
+    border-radius: 30px;
+    text-align: center;
+    padding: 10px;
+    }
+
+.onder {
+    color: white;
+}
+
+ul {color: white;
+    background: rgba(255, 255, 255, 0.404;
+}
