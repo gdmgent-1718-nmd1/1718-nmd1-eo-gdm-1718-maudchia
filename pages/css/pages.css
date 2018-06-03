@@ -71,6 +71,11 @@ display:inline-block;}
 
 .stre {widh:100%;}
 
+h5 {font-size: 1em;
+    font-family: 'Lato', sans-serif;
+color: rgb(255, 255, 255);
+text-align: center;}
+
 h4 {
     color:rgb(221, 247, 250);
     background-color: rgb(093, 213, 181);
@@ -79,11 +84,20 @@ h4 {
     text-align: center;
     padding: 10px;
     }
-
+.spons { margin-top: 120px;}
 .onder {
     color: white;
 }
+.icoon {width: 100px;
+display: inline-block;}
+.icoonr {width: 100px;
+    display: inline-block;
+    float: right;}
 
 ul {color: white;
-    background: rgba(255, 255, 255, 0.404;
+    background: rgba(255, 255, 255, 0.404
 }
+
+
+
+
